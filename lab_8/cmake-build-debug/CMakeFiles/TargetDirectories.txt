@@ -1,0 +1,3 @@
+/Users/6ogdasha/Desktop/Учебаа/Программирование/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir
+/Users/6ogdasha/Desktop/Учебаа/Программирование/lab_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/6ogdasha/Desktop/Учебаа/Программирование/lab_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
