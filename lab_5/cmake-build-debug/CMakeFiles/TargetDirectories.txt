@@ -1,0 +1,3 @@
+/Users/6ogdasha/Desktop/Учебаа/Программирование/lab_5/cmake-build-debug/CMakeFiles/lab_5.dir
+/Users/6ogdasha/Desktop/Учебаа/Программирование/lab_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/6ogdasha/Desktop/Учебаа/Программирование/lab_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
