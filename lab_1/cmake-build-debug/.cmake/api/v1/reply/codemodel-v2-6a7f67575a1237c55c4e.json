@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_1-Debug-d2135352e73ea6bf7831.json",
+					"name" : "lab_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/6ogdasha/Desktop/\u0423\u0447\u0435\u0431\u0430/\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b/lab_1/cmake-build-debug",
+		"source" : "/Users/6ogdasha/Desktop/\u0423\u0447\u0435\u0431\u0430/\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b/lab_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
